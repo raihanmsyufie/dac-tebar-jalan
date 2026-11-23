@@ -1,0 +1,157 @@
+provinsi,jenjang,biaya_juta_rp
+Aceh,SD,4.99
+Aceh,SMP,6.04
+Aceh,SMA/SMK,8.08
+Aceh,PT,13.86
+Sumatera Utara,SD,4.08
+Sumatera Utara,SMP,4.95
+Sumatera Utara,SMA/SMK,7.54
+Sumatera Utara,PT,18.36
+Sumatera Barat,SD,3.65
+Sumatera Barat,SMP,6.36
+Sumatera Barat,SMA/SMK,8.75
+Sumatera Barat,PT,13.7
+Riau,SD,4.84
+Riau,SMP,7.07
+Riau,SMA/SMK,8.12
+Riau,PT,14.2
+Jambi,SD,3.55
+Jambi,SMP,5.63
+Jambi,SMA/SMK,7.25
+Jambi,PT,13.96
+Sumatera Selatan,SD,3.94
+Sumatera Selatan,SMP,6.54
+Sumatera Selatan,SMA/SMK,14.6
+Sumatera Selatan,PT,16.88
+Bengkulu,SD,5.32
+Bengkulu,SMP,6.68
+Bengkulu,SMA/SMK,12.27
+Bengkulu,PT,13.52
+Lampung,SD,3.35
+Lampung,SMP,4.96
+Lampung,SMA/SMK,8.21
+Lampung,PT,17.71
+Kepulauan Bangka Belitung,SD,3.63
+Kepulauan Bangka Belitung,SMP,5.8
+Kepulauan Bangka Belitung,SMA/SMK,7.88
+Kepulauan Bangka Belitung,PT,11.41
+Kepulauan Riau,SD,9.49
+Kepulauan Riau,SMP,11.73
+Kepulauan Riau,SMA/SMK,8.83
+Kepulauan Riau,PT,22.89
+DKI Jakarta,SD,8.77
+DKI Jakarta,SMP,8.73
+DKI Jakarta,SMA/SMK,14.41
+DKI Jakarta,PT,28.55
+Jawa Barat,SD,4.62
+Jawa Barat,SMP,8.64
+Jawa Barat,SMA/SMK,11.49
+Jawa Barat,PT,21.21
+Jawa Tengah,SD,4.25
+Jawa Tengah,SMP,7.45
+Jawa Tengah,SMA/SMK,9.67
+Jawa Tengah,PT,17.14
+D.I. Yogyakarta,SD,5.78
+D.I. Yogyakarta,SMP,7.07
+D.I. Yogyakarta,SMA/SMK,13.96
+D.I. Yogyakarta,PT,18.71
+Jawa Timur,SD,4.85
+Jawa Timur,SMP,8.54
+Jawa Timur,SMA/SMK,11.45
+Jawa Timur,PT,18.21
+Banten,SD,6.19
+Banten,SMP,9.6
+Banten,SMA/SMK,13.43
+Banten,PT,31.27
+Bali,SD,3.81
+Bali,SMP,6.75
+Bali,SMA/SMK,10.51
+Bali,PT,17.72
+Nusa Tenggara Barat,SD,3.3
+Nusa Tenggara Barat,SMP,5.4
+Nusa Tenggara Barat,SMA/SMK,8.39
+Nusa Tenggara Barat,PT,13.88
+Nusa Tenggara Timur,SD,2.61
+Nusa Tenggara Timur,SMP,5.6
+Nusa Tenggara Timur,SMA/SMK,6.38
+Nusa Tenggara Timur,PT,9.97
+Kalimantan Barat,SD,3.04
+Kalimantan Barat,SMP,5.63
+Kalimantan Barat,SMA/SMK,6.21
+Kalimantan Barat,PT,11.5
+Kalimantan Tengah,SD,4.57
+Kalimantan Tengah,SMP,6.42
+Kalimantan Tengah,SMA/SMK,8.74
+Kalimantan Tengah,PT,12.18
+Kalimantan Selatan,SD,4.36
+Kalimantan Selatan,SMP,6.32
+Kalimantan Selatan,SMA/SMK,9.07
+Kalimantan Selatan,PT,18.14
+Kalimantan Timur,SD,5.26
+Kalimantan Timur,SMP,10.02
+Kalimantan Timur,SMA/SMK,10.35
+Kalimantan Timur,PT,20.26
+Kalimantan Utara,SD,3.28
+Kalimantan Utara,SMP,6.57
+Kalimantan Utara,SMA/SMK,6.63
+Kalimantan Utara,PT,9.28
+Sulawesi Utara,SD,4.36
+Sulawesi Utara,SMP,7.62
+Sulawesi Utara,SMA/SMK,11.75
+Sulawesi Utara,PT,23.62
+Sulawesi Tengah,SD,3.81
+Sulawesi Tengah,SMP,7.31
+Sulawesi Tengah,SMA/SMK,7.86
+Sulawesi Tengah,PT,14.07
+Sulawesi Selatan,SD,4.34
+Sulawesi Selatan,SMP,7.33
+Sulawesi Selatan,SMA/SMK,10.01
+Sulawesi Selatan,PT,15.2
+Sulawesi Tenggara,SD,2.52
+Sulawesi Tenggara,SMP,3.81
+Sulawesi Tenggara,SMA/SMK,6.75
+Sulawesi Tenggara,PT,13.97
+Gorontalo,SD,3.96
+Gorontalo,SMP,6.34
+Gorontalo,SMA/SMK,7.66
+Gorontalo,PT,9.67
+Sulawesi Barat,SD,2.93
+Sulawesi Barat,SMP,3.42
+Sulawesi Barat,SMA/SMK,6.18
+Sulawesi Barat,PT,11.89
+Maluku,SD,2.05
+Maluku,SMP,3.18
+Maluku,SMA/SMK,4.99
+Maluku,PT,11.52
+Maluku Utara,SD,3.15
+Maluku Utara,SMP,6.93
+Maluku Utara,SMA/SMK,8.05
+Maluku Utara,PT,14.9
+Papua Barat,SD,4.45
+Papua Barat,SMP,7.08
+Papua Barat,SMA/SMK,14.11
+Papua Barat,PT,15.9
+Papua Barat Daya,SD,3.27
+Papua Barat Daya,SMP,8.73
+Papua Barat Daya,SMA/SMK,8.81
+Papua Barat Daya,PT,11.24
+Papua,SD,5.49
+Papua,SMP,9.05
+Papua,SMA/SMK,17.91
+Papua,PT,15.17
+Papua Selatan,SD,4.79
+Papua Selatan,SMP,6.69
+Papua Selatan,SMA/SMK,8.08
+Papua Selatan,PT,11.11
+Papua Tengah,SD,4.62
+Papua Tengah,SMP,4.68
+Papua Tengah,SMA/SMK,6.52
+Papua Tengah,PT,19.32
+Papua Pegunungan,SD,1.6
+Papua Pegunungan,SMP,
+Papua Pegunungan,SMA/SMK,3.43
+Papua Pegunungan,PT,
+Indonesia,SD,4.56
+Indonesia,SMP,7.34
+Indonesia,SMA/SMK,10.19
+Indonesia,PT,19.01

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Balik Modal Pendidikan · Script Analisis DAC Tebar Jalan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; font-family: "Figtree", system-ui, sans-serif; color: #1f1d1a; }
+  body { display: flex; }
+  #panel { width: 220px; flex: 0 0 220px; height: 100%; overflow-y: auto; background: #f6f5f2; border-right: 1px solid #e4e2dc;
+           padding: 16px 14px; font-size: 13px; line-height: 1.4; }
+  #panel h1 { font-size: 15px; margin: 0 0 4px; }
+  #panel .sub { color: #6b6862; font-size: 12px; margin: 0 0 14px; }
+  #panel h2 { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: #8a867e; margin: 16px 0 6px; }
+  #panel button.nb { display: block; width: 100%; text-align: left; border: 1px solid #dcd9d2; background: #fff; border-radius: 6px;
+                     padding: 6px 8px; margin-bottom: 4px; font: inherit; cursor: pointer; }
+  #panel button.nb.aktif { background: #c2185b; border-color: #c2185b; color: #fff; }
+  #isi a, #unduh a { display: block; color: #1f1d1a; text-decoration: none; padding: 3px 4px; border-radius: 4px; }
+  #isi a.h2 { padding-left: 14px; color: #4a4741; }
+  #isi a:hover, #unduh a:hover { background: #ebe9e3; }
+  main { flex: 1; position: relative; height: 100%; }
+  iframe { width: 100%; height: 100%; border: 0; display: block; }
+  #togel { position: absolute; top: 8px; left: 8px; z-index: 2; border: 1px solid #dcd9d2; background: #fff; border-radius: 6px;
+           width: 30px; height: 28px; cursor: pointer; font-size: 15px; line-height: 1; }
+  body.tutup #panel { display: none; }
+  @media (max-width: 760px) {
+    body { flex-direction: column; }
+    #panel { display: none; width: 100%; flex: none; max-height: 45vh; border-right: 0; border-bottom: 1px solid #e4e2dc; }
+    body.buka #panel { display: block; }
+    body.tutup #panel { display: none; }
+    main { flex: 1; min-height: 0; }
+  }
+</style>
+</head>
+<body>
+<nav id="panel">
+  <h1>Balik Modal Pendidikan</h1>
+  <p class="sub">Script analisis dashboard DAC Tebar Jalan. Data BPS, Sakernas Agustus 2024 dan 2025.</p>
+  <h2>Notebook</h2>
+  <div id="daftar"></div>
+  <h2>Isi</h2>
+  <div id="isi"></div>
+  <h2>Unduh</h2>
+  <div id="unduh">
+    <a href="analisis_final_ide_A.ipynb" download>Notebook (.ipynb)</a>
+    <a href="analisis_final_ide_A.py" download>Script Python (.py)</a>
+    <a href="https://github.com/raihanmsyufie/dac-tebar-jalan" target="_blank" rel="noopener">Data CSV dan repo GitHub</a>
+  </div>
+</nav>
+<main>
+  <button id="togel" title="Sembunyikan atau tampilkan panel">☰</button>
+  <iframe id="bingkai" title="Notebook"></iframe>
+</main>
+<script>
+  const NOTEBOOK = [
+    { nama: "Analisis final ide A", file: "analisis_final_ide_A.html" },
+  ];
+  const bingkai = document.getElementById("bingkai");
+  const daftar = document.getElementById("daftar");
+  const isi = document.getElementById("isi");
+  let aktif = 0;
+  try { const s = Number(localStorage.getItem("dac-nb")); if (s >= 0 && s < NOTEBOOK.length) aktif = s; } catch (e) {}
+
+  function bukaNotebook(i) {
+    aktif = i;
+    try { localStorage.setItem("dac-nb", String(i)); } catch (e) {}
+    [...daftar.children].forEach((b, k) => b.classList.toggle("aktif", k === i));
+    bingkai.src = NOTEBOOK[i].file;
+  }
+  NOTEBOOK.forEach((n, i) => {
+    const b = document.createElement("button");
+    b.className = "nb"; b.textContent = n.nama; b.onclick = () => bukaNotebook(i);
+    daftar.appendChild(b);
+  });
+
+  bingkai.addEventListener("load", () => {
+    isi.innerHTML = "";
+    let doc;
+    try { doc = bingkai.contentDocument; } catch (e) { return; }
+    if (!doc) return;
+    doc.querySelectorAll("h1, h2").forEach(h => {
+      const teks = h.textContent.replace("¶", "").trim();
+      if (!teks) return;
+      const a = document.createElement("a");
+      a.href = "#"; a.textContent = teks; a.className = h.tagName.toLowerCase();
+      a.onclick = ev => { ev.preventDefault(); h.scrollIntoView({ behavior: "smooth", block: "start" }); };
+      isi.appendChild(a);
+    });
+    if (location.hash === "#glosarium") {
+      const g = [...doc.querySelectorAll("h2")].find(h => h.textContent.includes("Glosarium"));
+      if (g) setTimeout(() => g.scrollIntoView({ block: "start" }), 300);
+    }
+  });
+
+  const kecil = () => window.matchMedia("(max-width: 760px)").matches;
+  document.getElementById("togel").onclick = () => {
+    if (kecil()) { document.body.classList.toggle("buka"); document.body.classList.remove("tutup"); }
+    else document.body.classList.toggle("tutup");
+  };
+  bukaNotebook(aktif);
+</script>
+</body>
+</html>

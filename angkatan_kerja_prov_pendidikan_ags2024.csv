@@ -1,0 +1,274 @@
+tahun,provinsi,pendidikan,orang,rse_25_50
+2024,Aceh,SD ke bawah,642107,0
+2024,Aceh,SMP,487083,0
+2024,Aceh,SMA,943241,0
+2024,Aceh,SMK,120300,0
+2024,Aceh,Diploma I/II/III,89271,0
+2024,Aceh,DIV/S1/S2/S3,379281,0
+2024,Aceh,Jumlah,2661283,0
+2024,Sumatera Utara,SD ke bawah,1834488,0
+2024,Sumatera Utara,SMP,1547184,0
+2024,Sumatera Utara,SMA,2404299,0
+2024,Sumatera Utara,SMK,1254344,0
+2024,Sumatera Utara,Diploma I/II/III,212369,0
+2024,Sumatera Utara,DIV/S1/S2/S3,928474,0
+2024,Sumatera Utara,Jumlah,8181158,0
+2024,Sumatera Barat,SD ke bawah,931262,0
+2024,Sumatera Barat,SMP,523771,0
+2024,Sumatera Barat,SMA,735354,0
+2024,Sumatera Barat,SMK,376782,0
+2024,Sumatera Barat,Diploma I/II/III,95700,0
+2024,Sumatera Barat,DIV/S1/S2/S3,440162,0
+2024,Sumatera Barat,Jumlah,3103031,0
+2024,Riau,SD ke bawah,944764,0
+2024,Riau,SMP,553590,0
+2024,Riau,SMA,974074,0
+2024,Riau,SMK,314766,0
+2024,Riau,Diploma I/II/III,79087,0
+2024,Riau,DIV/S1/S2/S3,414447,0
+2024,Riau,Jumlah,3280728,0
+2024,Jambi,SD ke bawah,659677,0
+2024,Jambi,SMP,351884,0
+2024,Jambi,SMA,491062,0
+2024,Jambi,SMK,169863,0
+2024,Jambi,Diploma I/II/III,37063,0
+2024,Jambi,DIV/S1/S2/S3,209793,0
+2024,Jambi,Jumlah,1919342,0
+2024,Sumatera Selatan,SD ke bawah,1753750,0
+2024,Sumatera Selatan,SMP,796563,0
+2024,Sumatera Selatan,SMA,1196343,0
+2024,Sumatera Selatan,SMK,382034,0
+2024,Sumatera Selatan,Diploma I/II/III,95474,0
+2024,Sumatera Selatan,DIV/S1/S2/S3,435645,0
+2024,Sumatera Selatan,Jumlah,4659809,0
+2024,Bengkulu,SD ke bawah,369737,0
+2024,Bengkulu,SMP,193173,0
+2024,Bengkulu,SMA,265601,0
+2024,Bengkulu,SMK,108510,0
+2024,Bengkulu,Diploma I/II/III,27860,0
+2024,Bengkulu,DIV/S1/S2/S3,171692,0
+2024,Bengkulu,Jumlah,1136573,0
+2024,Lampung,SD ke bawah,1737470,0
+2024,Lampung,SMP,1175301,0
+2024,Lampung,SMA,1072042,0
+2024,Lampung,SMK,545065,0
+2024,Lampung,Diploma I/II/III,84678,0
+2024,Lampung,DIV/S1/S2/S3,382194,0
+2024,Lampung,Jumlah,4996750,0
+2024,Kepulauan Bangka Belitung,SD ke bawah,310736,0
+2024,Kepulauan Bangka Belitung,SMP,104123,0
+2024,Kepulauan Bangka Belitung,SMA,170332,0
+2024,Kepulauan Bangka Belitung,SMK,114951,0
+2024,Kepulauan Bangka Belitung,Diploma I/II/III,24226,0
+2024,Kepulauan Bangka Belitung,DIV/S1/S2/S3,78930,0
+2024,Kepulauan Bangka Belitung,Jumlah,803298,0
+2024,Kepulauan Riau,SD ke bawah,197715,0
+2024,Kepulauan Riau,SMP,127116,0
+2024,Kepulauan Riau,SMA,345085,0
+2024,Kepulauan Riau,SMK,232577,0
+2024,Kepulauan Riau,Diploma I/II/III,49639,0
+2024,Kepulauan Riau,DIV/S1/S2/S3,168527,0
+2024,Kepulauan Riau,Jumlah,1120659,0
+2024,DKI Jakarta,SD ke bawah,710929,0
+2024,DKI Jakarta,SMP,766600,0
+2024,DKI Jakarta,SMA,1547746,0
+2024,DKI Jakarta,SMK,1285754,0
+2024,DKI Jakarta,Diploma I/II/III,195823,0
+2024,DKI Jakarta,DIV/S1/S2/S3,938915,0
+2024,DKI Jakarta,Jumlah,5445767,0
+2024,Jawa Barat,SD ke bawah,9364919,0
+2024,Jawa Barat,SMP,4591919,0
+2024,Jawa Barat,SMA,4973053,0
+2024,Jawa Barat,SMK,4291929,0
+2024,Jawa Barat,Diploma I/II/III,605878,0
+2024,Jawa Barat,DIV/S1/S2/S3,2357638,0
+2024,Jawa Barat,Jumlah,26185336,0
+2024,Jawa Tengah,SD ke bawah,8889942,0
+2024,Jawa Tengah,SMP,4411948,0
+2024,Jawa Tengah,SMA,3079947,0
+2024,Jawa Tengah,SMK,3479137,0
+2024,Jawa Tengah,Diploma I/II/III,466250,0
+2024,Jawa Tengah,DIV/S1/S2/S3,1581620,0
+2024,Jawa Tengah,Jumlah,21908844,0
+2024,D.I. Yogyakarta,SD ke bawah,549826,0
+2024,D.I. Yogyakarta,SMP,353577,0
+2024,D.I. Yogyakarta,SMA,373780,0
+2024,D.I. Yogyakarta,SMK,572712,0
+2024,D.I. Yogyakarta,Diploma I/II/III,82134,0
+2024,D.I. Yogyakarta,DIV/S1/S2/S3,329407,0
+2024,D.I. Yogyakarta,Jumlah,2261436,0
+2024,Jawa Timur,SD ke bawah,9638180,0
+2024,Jawa Timur,SMP,4418289,0
+2024,Jawa Timur,SMA,4290428,0
+2024,Jawa Timur,SMK,3380476,0
+2024,Jawa Timur,Diploma I/II/III,392506,0
+2024,Jawa Timur,DIV/S1/S2/S3,2261882,0
+2024,Jawa Timur,Jumlah,24381761,0
+2024,Banten,SD ke bawah,1914543,0
+2024,Banten,SMP,1115861,0
+2024,Banten,SMA,1515004,0
+2024,Banten,SMK,881406,0
+2024,Banten,Diploma I/II/III,113177,0
+2024,Banten,DIV/S1/S2/S3,672686,0
+2024,Banten,Jumlah,6212677,0
+2024,Bali,SD ke bawah,842834,0
+2024,Bali,SMP,365367,0
+2024,Bali,SMA,616802,0
+2024,Bali,SMK,405080,0
+2024,Bali,Diploma I/II/III,142792,0
+2024,Bali,DIV/S1/S2/S3,341222,0
+2024,Bali,Jumlah,2714097,0
+2024,Nusa Tenggara Barat,SD ke bawah,1310488,0
+2024,Nusa Tenggara Barat,SMP,500394,0
+2024,Nusa Tenggara Barat,SMA,731333,0
+2024,Nusa Tenggara Barat,SMK,219681,0
+2024,Nusa Tenggara Barat,Diploma I/II/III,67749,0
+2024,Nusa Tenggara Barat,DIV/S1/S2/S3,362915,0
+2024,Nusa Tenggara Barat,Jumlah,3192560,0
+2024,Nusa Tenggara Timur,SD ke bawah,1344976,0
+2024,Nusa Tenggara Timur,SMP,405639,0
+2024,Nusa Tenggara Timur,SMA,646737,0
+2024,Nusa Tenggara Timur,SMK,221972,0
+2024,Nusa Tenggara Timur,Diploma I/II/III,81850,0
+2024,Nusa Tenggara Timur,DIV/S1/S2/S3,417504,0
+2024,Nusa Tenggara Timur,Jumlah,3118678,0
+2024,Kalimantan Barat,SD ke bawah,1276156,0
+2024,Kalimantan Barat,SMP,495658,0
+2024,Kalimantan Barat,SMA,673506,0
+2024,Kalimantan Barat,SMK,212625,0
+2024,Kalimantan Barat,Diploma I/II/III,80409,0
+2024,Kalimantan Barat,DIV/S1/S2/S3,271368,0
+2024,Kalimantan Barat,Jumlah,3009722,0
+2024,Kalimantan Tengah,SD ke bawah,517254,0
+2024,Kalimantan Tengah,SMP,266431,0
+2024,Kalimantan Tengah,SMA,367060,0
+2024,Kalimantan Tengah,SMK,106639,0
+2024,Kalimantan Tengah,Diploma I/II/III,31561,0
+2024,Kalimantan Tengah,DIV/S1/S2/S3,171961,0
+2024,Kalimantan Tengah,Jumlah,1460906,0
+2024,Kalimantan Selatan,SD ke bawah,838152,0
+2024,Kalimantan Selatan,SMP,365595,0
+2024,Kalimantan Selatan,SMA,524539,0
+2024,Kalimantan Selatan,SMK,188530,0
+2024,Kalimantan Selatan,Diploma I/II/III,48099,0
+2024,Kalimantan Selatan,DIV/S1/S2/S3,257617,0
+2024,Kalimantan Selatan,Jumlah,2222532,0
+2024,Kalimantan Timur,SD ke bawah,495797,0
+2024,Kalimantan Timur,SMP,296543,0
+2024,Kalimantan Timur,SMA,580128,0
+2024,Kalimantan Timur,SMK,364078,0
+2024,Kalimantan Timur,Diploma I/II/III,69754,0
+2024,Kalimantan Timur,DIV/S1/S2/S3,277169,0
+2024,Kalimantan Timur,Jumlah,2083469,0
+2024,Kalimantan Utara,SD ke bawah,125873,0
+2024,Kalimantan Utara,SMP,56658,0
+2024,Kalimantan Utara,SMA,95061,0
+2024,Kalimantan Utara,SMK,45388,0
+2024,Kalimantan Utara,Diploma I/II/III,11523,0
+2024,Kalimantan Utara,DIV/S1/S2/S3,59201,0
+2024,Kalimantan Utara,Jumlah,393704,0
+2024,Sulawesi Utara,SD ke bawah,339861,0
+2024,Sulawesi Utara,SMP,234930,0
+2024,Sulawesi Utara,SMA,387825,0
+2024,Sulawesi Utara,SMK,189185,0
+2024,Sulawesi Utara,Diploma I/II/III,36346,0
+2024,Sulawesi Utara,DIV/S1/S2/S3,198867,0
+2024,Sulawesi Utara,Jumlah,1387014,0
+2024,Sulawesi Tengah,SD ke bawah,597313,0
+2024,Sulawesi Tengah,SMP,281406,0
+2024,Sulawesi Tengah,SMA,435922,0
+2024,Sulawesi Tengah,SMK,106442,0
+2024,Sulawesi Tengah,Diploma I/II/III,30947,0
+2024,Sulawesi Tengah,DIV/S1/S2/S3,195060,0
+2024,Sulawesi Tengah,Jumlah,1647090,0
+2024,Sulawesi Selatan,SD ke bawah,1704615,0
+2024,Sulawesi Selatan,SMP,693636,0
+2024,Sulawesi Selatan,SMA,1203136,0
+2024,Sulawesi Selatan,SMK,401356,0
+2024,Sulawesi Selatan,Diploma I/II/III,116883,0
+2024,Sulawesi Selatan,DIV/S1/S2/S3,766062,0
+2024,Sulawesi Selatan,Jumlah,4885688,0
+2024,Sulawesi Tenggara,SD ke bawah,439488,0
+2024,Sulawesi Tenggara,SMP,239551,0
+2024,Sulawesi Tenggara,SMA,413301,0
+2024,Sulawesi Tenggara,SMK,91873,0
+2024,Sulawesi Tenggara,Diploma I/II/III,36309,0
+2024,Sulawesi Tenggara,DIV/S1/S2/S3,255939,0
+2024,Sulawesi Tenggara,Jumlah,1476461,0
+2024,Gorontalo,SD ke bawah,304765,0
+2024,Gorontalo,SMP,69460,0
+2024,Gorontalo,SMA,135045,0
+2024,Gorontalo,SMK,57887,0
+2024,Gorontalo,Diploma I/II/III,9705,0
+2024,Gorontalo,DIV/S1/S2/S3,75726,0
+2024,Gorontalo,Jumlah,652588,0
+2024,Sulawesi Barat,SD ke bawah,331837,0
+2024,Sulawesi Barat,SMP,105246,0
+2024,Sulawesi Barat,SMA,156423,0
+2024,Sulawesi Barat,SMK,62023,0
+2024,Sulawesi Barat,Diploma I/II/III,16800,0
+2024,Sulawesi Barat,DIV/S1/S2/S3,106054,0
+2024,Sulawesi Barat,Jumlah,778383,0
+2024,Maluku,SD ke bawah,255974,0
+2024,Maluku,SMP,139190,0
+2024,Maluku,SMA,321398,0
+2024,Maluku,SMK,60157,0
+2024,Maluku,Diploma I/II/III,32825,0
+2024,Maluku,DIV/S1/S2/S3,157269,0
+2024,Maluku,Jumlah,966813,0
+2024,Maluku Utara,SD ke bawah,213946,0
+2024,Maluku Utara,SMP,106538,0
+2024,Maluku Utara,SMA,220638,0
+2024,Maluku Utara,SMK,31311,0
+2024,Maluku Utara,Diploma I/II/III,18628,0
+2024,Maluku Utara,DIV/S1/S2/S3,98174,0
+2024,Maluku Utara,Jumlah,689235,0
+2024,Papua Barat,SD ke bawah,104149,0
+2024,Papua Barat,SMP,46492,0
+2024,Papua Barat,SMA,84049,0
+2024,Papua Barat,SMK,18707,0
+2024,Papua Barat,Diploma I/II/III,7938,0
+2024,Papua Barat,DIV/S1/S2/S3,41253,0
+2024,Papua Barat,Jumlah,302588,0
+2024,Papua Barat Daya,SD ke bawah,82265,0
+2024,Papua Barat Daya,SMP,42370,0
+2024,Papua Barat Daya,SMA,91624,0
+2024,Papua Barat Daya,SMK,38255,0
+2024,Papua Barat Daya,Diploma I/II/III,6160,0
+2024,Papua Barat Daya,DIV/S1/S2/S3,57698,0
+2024,Papua Barat Daya,Jumlah,318372,0
+2024,Papua,SD ke bawah,111063,0
+2024,Papua,SMP,61112,0
+2024,Papua,SMA,167796,0
+2024,Papua,SMK,53350,0
+2024,Papua,Diploma I/II/III,14104,0
+2024,Papua,DIV/S1/S2/S3,83140,0
+2024,Papua,Jumlah,490565,0
+2024,Papua Selatan,SD ke bawah,113543,0
+2024,Papua Selatan,SMP,31775,0
+2024,Papua Selatan,SMA,49471,0
+2024,Papua Selatan,SMK,13835,0
+2024,Papua Selatan,Diploma I/II/III,4107,0
+2024,Papua Selatan,DIV/S1/S2/S3,23409,0
+2024,Papua Selatan,Jumlah,236140,0
+2024,Papua Tengah,SD ke bawah,453554,0
+2024,Papua Tengah,SMP,153505,0
+2024,Papua Tengah,SMA,121683,0
+2024,Papua Tengah,SMK,28491,0
+2024,Papua Tengah,Diploma I/II/III,9511,0
+2024,Papua Tengah,DIV/S1/S2/S3,33899,0
+2024,Papua Tengah,Jumlah,800643,0
+2024,Papua Pegunungan,SD ke bawah,759347,0
+2024,Papua Pegunungan,SMP,93302,0
+2024,Papua Pegunungan,SMA,127000,0
+2024,Papua Pegunungan,SMK,5461,0
+2024,Papua Pegunungan,Diploma I/II/III,4488,0
+2024,Papua Pegunungan,DIV/S1/S2/S3,32305,0
+2024,Papua Pegunungan,Jumlah,1021903,0
+2024,Indonesia,SD ke bawah,53013295,0
+2024,Indonesia,SMP,26568780,0
+2024,Indonesia,SMA,32527868,0
+2024,Indonesia,SMK,20432932,0
+2024,Indonesia,Diploma I/II/III,3529623,0
+2024,Indonesia,DIV/S1/S2/S3,16035105,0
+2024,Indonesia,Jumlah,152107603,0

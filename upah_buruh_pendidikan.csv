@@ -1,0 +1,528 @@
+vervar,turvar,tahun,periode,nilai
+Tidak/belum pernah sekolah,0 jam,2016,Februari,914632
+Tidak/belum pernah sekolah,0 jam,2016,Agustus,908247
+Tidak/belum pernah sekolah,1 - 9 jam,2016,Februari,393962
+Tidak/belum pernah sekolah,1 - 9 jam,2016,Agustus,413420
+Tidak/belum pernah sekolah,10 - 14 jam,2016,Februari,545705
+Tidak/belum pernah sekolah,10 - 14 jam,2016,Agustus,1200000
+Tidak/belum pernah sekolah,15 - 24 jam,2016,Februari,696766
+Tidak/belum pernah sekolah,25 - 34 jam,2016,Februari,603464
+Tidak/belum pernah sekolah,25 - 34 jam,2016,Agustus,1049123
+Tidak/belum pernah sekolah,35 - 44 jam,2016,Februari,1058837
+Tidak/belum pernah sekolah,45 - 59 jam,2016,Februari,1034804
+Tidak/belum pernah sekolah,45 - 59 jam,2016,Agustus,1470463
+Tidak/belum pernah sekolah,60+ jam,2016,Februari,1366167
+Tidak/belum pernah sekolah,60+ jam,2016,Agustus,1498127
+Tidak/belum tamat SD,0 jam,2016,Februari,1019604
+Tidak/belum tamat SD,0 jam,2016,Agustus,2368275
+Tidak/belum tamat SD,1 - 9 jam,2016,Februari,419508
+Tidak/belum tamat SD,1 - 9 jam,2016,Agustus,628830
+Tidak/belum tamat SD,10 - 14 jam,2016,Februari,598224
+Tidak/belum tamat SD,10 - 14 jam,2016,Agustus,562927
+Tidak/belum tamat SD,15 - 24 jam,2016,Februari,725290
+Tidak/belum tamat SD,15 - 24 jam,2016,Agustus,643229
+Tidak/belum tamat SD,25 - 34 jam,2016,Februari,893573
+Tidak/belum tamat SD,25 - 34 jam,2016,Agustus,1054518
+Tidak/belum tamat SD,35 - 44 jam,2016,Februari,1170134
+Tidak/belum tamat SD,35 - 44 jam,2016,Agustus,1275335
+Tidak/belum tamat SD,45 - 59 jam,2016,Februari,1454723
+Tidak/belum tamat SD,45 - 59 jam,2016,Agustus,1598543
+Tidak/belum tamat SD,60+ jam,2016,Februari,1418122
+Tidak/belum tamat SD,60+ jam,2016,Agustus,1581445
+Sekolah Dasar,0 jam,2016,Februari,1311749
+Sekolah Dasar,0 jam,2016,Agustus,1430855
+Sekolah Dasar,1 - 9 jam,2016,Februari,682722
+Sekolah Dasar,1 - 9 jam,2016,Agustus,714946
+Sekolah Dasar,10 - 14 jam,2016,Februari,704873
+Sekolah Dasar,10 - 14 jam,2016,Agustus,621499
+Sekolah Dasar,15 - 24 jam,2016,Februari,884564
+Sekolah Dasar,15 - 24 jam,2016,Agustus,991360
+Sekolah Dasar,25 - 34 jam,2016,Februari,1185537
+Sekolah Dasar,25 - 34 jam,2016,Agustus,1083147
+Sekolah Dasar,35 - 44 jam,2016,Februari,1363432
+Sekolah Dasar,35 - 44 jam,2016,Agustus,1451673
+Sekolah Dasar,45 - 59 jam,2016,Februari,1479472
+Sekolah Dasar,45 - 59 jam,2016,Agustus,1733030
+Sekolah Dasar,60+ jam,2016,Februari,1591838
+Sekolah Dasar,60+ jam,2016,Agustus,1816379
+Sekolah Menengah Pertama,0 jam,2016,Februari,1314211
+Sekolah Menengah Pertama,0 jam,2016,Agustus,1588550
+Sekolah Menengah Pertama,1 - 9 jam,2016,Februari,632574
+Sekolah Menengah Pertama,1 - 9 jam,2016,Agustus,662676
+Sekolah Menengah Pertama,10 - 14 jam,2016,Februari,782668
+Sekolah Menengah Pertama,10 - 14 jam,2016,Agustus,583655
+Sekolah Menengah Pertama,15 - 24 jam,2016,Februari,1097710
+Sekolah Menengah Pertama,15 - 24 jam,2016,Agustus,941292
+Sekolah Menengah Pertama,25 - 34 jam,2016,Februari,1194027
+Sekolah Menengah Pertama,25 - 34 jam,2016,Agustus,1191001
+Sekolah Menengah Pertama,35 - 44 jam,2016,Februari,1641265
+Sekolah Menengah Pertama,35 - 44 jam,2016,Agustus,1749216
+Sekolah Menengah Pertama,45 - 59 jam,2016,Februari,1678820
+Sekolah Menengah Pertama,45 - 59 jam,2016,Agustus,1886836
+Sekolah Menengah Pertama,60+ jam,2016,Februari,1659732
+Sekolah Menengah Pertama,60+ jam,2016,Agustus,1917704
+Sekolah Menengah Atas (Umum),0 jam,2016,Februari,2440821
+Sekolah Menengah Atas (Umum),0 jam,2016,Agustus,2251066
+Sekolah Menengah Atas (Umum),1 - 9 jam,2016,Februari,944866
+Sekolah Menengah Atas (Umum),1 - 9 jam,2016,Agustus,901180
+Sekolah Menengah Atas (Umum),10 - 14 jam,2016,Februari,760390
+Sekolah Menengah Atas (Umum),10 - 14 jam,2016,Agustus,929854
+Sekolah Menengah Atas (Umum),15 - 24 jam,2016,Februari,1073237
+Sekolah Menengah Atas (Umum),15 - 24 jam,2016,Agustus,944781
+Sekolah Menengah Atas (Umum),25 - 34 jam,2016,Februari,1690291
+Sekolah Menengah Atas (Umum),25 - 34 jam,2016,Agustus,1713305
+Sekolah Menengah Atas (Umum),35 - 44 jam,2016,Februari,2290387
+Sekolah Menengah Atas (Umum),35 - 44 jam,2016,Agustus,2720270
+Sekolah Menengah Atas (Umum),45 - 59 jam,2016,Februari,2206152
+Sekolah Menengah Atas (Umum),45 - 59 jam,2016,Agustus,2479558
+Sekolah Menengah Atas (Umum),60+ jam,2016,Februari,2309608
+Sekolah Menengah Atas (Umum),60+ jam,2016,Agustus,2540489
+Sekolah Menengah Atas (Kejuruan),0 jam,2016,Februari,2441179
+Sekolah Menengah Atas (Kejuruan),0 jam,2016,Agustus,2402530
+Sekolah Menengah Atas (Kejuruan),1 - 9 jam,2016,Februari,893910
+Sekolah Menengah Atas (Kejuruan),1 - 9 jam,2016,Agustus,728750
+Sekolah Menengah Atas (Kejuruan),10 - 14 jam,2016,Februari,1089679
+Sekolah Menengah Atas (Kejuruan),10 - 14 jam,2016,Agustus,782882
+Sekolah Menengah Atas (Kejuruan),15 - 24 jam,2016,Februari,1255816
+Sekolah Menengah Atas (Kejuruan),15 - 24 jam,2016,Agustus,1285833
+Sekolah Menengah Atas (Kejuruan),25 - 34 jam,2016,Februari,1681568
+Sekolah Menengah Atas (Kejuruan),25 - 34 jam,2016,Agustus,1758587
+Sekolah Menengah Atas (Kejuruan),35 - 44 jam,2016,Februari,2231910
+Sekolah Menengah Atas (Kejuruan),35 - 44 jam,2016,Agustus,2653618
+Sekolah Menengah Atas (Kejuruan),45 - 59 jam,2016,Februari,2048971
+Sekolah Menengah Atas (Kejuruan),45 - 59 jam,2016,Agustus,2453901
+Sekolah Menengah Atas (Kejuruan),60+ jam,2016,Februari,2161928
+Sekolah Menengah Atas (Kejuruan),60+ jam,2016,Agustus,2449188
+Diploma I/II/III/Akademi,0 jam,2016,Februari,3484905
+Diploma I/II/III/Akademi,0 jam,2016,Agustus,5663167
+Diploma I/II/III/Akademi,1 - 9 jam,2016,Februari,912359
+Diploma I/II/III/Akademi,1 - 9 jam,2016,Agustus,1699333
+Diploma I/II/III/Akademi,10 - 14 jam,2016,Februari,1536342
+Diploma I/II/III/Akademi,10 - 14 jam,2016,Agustus,1065748
+Diploma I/II/III/Akademi,15 - 24 jam,2016,Februari,1566764
+Diploma I/II/III/Akademi,15 - 24 jam,2016,Agustus,1760927
+Diploma I/II/III/Akademi,25 - 34 jam,2016,Februari,2205128
+Diploma I/II/III/Akademi,25 - 34 jam,2016,Agustus,2537332
+Diploma I/II/III/Akademi,35 - 44 jam,2016,Februari,2964145
+Diploma I/II/III/Akademi,35 - 44 jam,2016,Agustus,3295391
+Diploma I/II/III/Akademi,45 - 59 jam,2016,Februari,2976643
+Diploma I/II/III/Akademi,45 - 59 jam,2016,Agustus,3073229
+Diploma I/II/III/Akademi,60+ jam,2016,Februari,2844086
+Diploma I/II/III/Akademi,60+ jam,2016,Agustus,3667200
+Universitas,0 jam,2016,Februari,3365231
+Universitas,0 jam,2016,Agustus,3612700
+Universitas,1 - 9 jam,2016,Februari,1294326
+Universitas,1 - 9 jam,2016,Agustus,1007851
+Universitas,10 - 14 jam,2016,Februari,1987999
+Universitas,10 - 14 jam,2016,Agustus,1545625
+Universitas,15 - 24 jam,2016,Februari,1929588
+Universitas,15 - 24 jam,2016,Agustus,1858286
+Universitas,25 - 34 jam,2016,Februari,2858848
+Universitas,25 - 34 jam,2016,Agustus,2934158
+Universitas,35 - 44 jam,2016,Februari,4036774
+Universitas,35 - 44 jam,2016,Agustus,4965867
+Universitas,45 - 59 jam,2016,Februari,4065896
+Universitas,45 - 59 jam,2016,Agustus,4629039
+Universitas,60+ jam,2016,Februari,4836355
+Universitas,60+ jam,2016,Agustus,6187233
+Rata-Rata,0 jam,2016,Februari,1997909
+Rata-Rata,0 jam,2016,Agustus,2390194
+Rata-Rata,1 - 9 jam,2016,Februari,872826
+Rata-Rata,1 - 9 jam,2016,Agustus,855860
+Rata-Rata,10 - 14 jam,2016,Februari,1009732
+Rata-Rata,10 - 14 jam,2016,Agustus,933691
+Rata-Rata,15 - 24 jam,2016,Februari,1289003
+Rata-Rata,15 - 24 jam,2016,Agustus,1238825
+Rata-Rata,25 - 34 jam,2016,Februari,1938582
+Rata-Rata,25 - 34 jam,2016,Agustus,2039425
+Rata-Rata,35 - 44 jam,2016,Februari,2615203
+Rata-Rata,35 - 44 jam,2016,Agustus,3198239
+Rata-Rata,45 - 59 jam,2016,Februari,2153519
+Rata-Rata,45 - 59 jam,2016,Agustus,2449160
+Rata-Rata,60+ jam,2016,Februari,2054680
+Rata-Rata,60+ jam,2016,Agustus,2377205
+Tidak/belum pernah sekolah,0 jam,2024,Agustus,2317952
+Tidak/belum pernah sekolah,1 - 9 jam,2024,Februari,273549
+Tidak/belum pernah sekolah,1 - 9 jam,2024,Agustus,414242
+Tidak/belum pernah sekolah,10 - 14 jam,2024,Februari,417697
+Tidak/belum pernah sekolah,10 - 14 jam,2024,Agustus,437502
+Tidak/belum pernah sekolah,15 - 24 jam,2024,Februari,468749
+Tidak/belum pernah sekolah,15 - 24 jam,2024,Agustus,949654
+Tidak/belum pernah sekolah,25 - 34 jam,2024,Februari,1505534
+Tidak/belum pernah sekolah,25 - 34 jam,2024,Agustus,1358006
+Tidak/belum pernah sekolah,35 - 44 jam,2024,Februari,1826393
+Tidak/belum pernah sekolah,35 - 44 jam,2024,Agustus,1594697
+Tidak/belum pernah sekolah,45 - 59 jam,2024,Februari,1693444
+Tidak/belum pernah sekolah,45 - 59 jam,2024,Agustus,1870377
+Tidak/belum pernah sekolah,60+ jam,2024,Februari,1550637
+Tidak/belum pernah sekolah,60+ jam,2024,Agustus,1636430
+Tidak/belum pernah sekolah,Jumlah,2024,Februari,1314304
+Tidak/belum pernah sekolah,Jumlah,2024,Agustus,1568338
+Tidak/belum tamat SD,0 jam,2024,Februari,1198166
+Tidak/belum tamat SD,0 jam,2024,Agustus,1622299
+Tidak/belum tamat SD,1 - 9 jam,2024,Februari,474126
+Tidak/belum tamat SD,10 - 14 jam,2024,Februari,1125400
+Tidak/belum tamat SD,10 - 14 jam,2024,Agustus,841706
+Tidak/belum tamat SD,15 - 24 jam,2024,Februari,1198775
+Tidak/belum tamat SD,15 - 24 jam,2024,Agustus,1169593
+Tidak/belum tamat SD,25 - 34 jam,2024,Februari,1404468
+Tidak/belum tamat SD,25 - 34 jam,2024,Agustus,1449472
+Tidak/belum tamat SD,35 - 44 jam,2024,Februari,1860443
+Tidak/belum tamat SD,35 - 44 jam,2024,Agustus,1929729
+Tidak/belum tamat SD,45 - 59 jam,2024,Februari,2084897
+Tidak/belum tamat SD,45 - 59 jam,2024,Agustus,2228156
+Tidak/belum tamat SD,60+ jam,2024,Februari,2146396
+Tidak/belum tamat SD,60+ jam,2024,Agustus,2322410
+Tidak/belum tamat SD,Jumlah,2024,Februari,1749210
+Tidak/belum tamat SD,Jumlah,2024,Agustus,1877398
+Sekolah Dasar,0 jam,2024,Februari,1743274
+Sekolah Dasar,0 jam,2024,Agustus,1826409
+Sekolah Dasar,1 - 9 jam,2024,Februari,706108
+Sekolah Dasar,1 - 9 jam,2024,Agustus,845874
+Sekolah Dasar,10 - 14 jam,2024,Februari,911346
+Sekolah Dasar,10 - 14 jam,2024,Agustus,968915
+Sekolah Dasar,15 - 24 jam,2024,Februari,1300413
+Sekolah Dasar,15 - 24 jam,2024,Agustus,1254755
+Sekolah Dasar,25 - 34 jam,2024,Februari,1599876
+Sekolah Dasar,25 - 34 jam,2024,Agustus,1596815
+Sekolah Dasar,35 - 44 jam,2024,Februari,1966374
+Sekolah Dasar,35 - 44 jam,2024,Agustus,2205416
+Sekolah Dasar,45 - 59 jam,2024,Februari,2259333
+Sekolah Dasar,45 - 59 jam,2024,Agustus,2412253
+Sekolah Dasar,60+ jam,2024,Februari,2283677
+Sekolah Dasar,60+ jam,2024,Agustus,2458075
+Sekolah Dasar,Jumlah,2024,Februari,1970141
+Sekolah Dasar,Jumlah,2024,Agustus,2143184
+Sekolah Menengah Pertama,0 jam,2024,Februari,1789092
+Sekolah Menengah Pertama,0 jam,2024,Agustus,2008195
+Sekolah Menengah Pertama,1 - 9 jam,2024,Februari,767431
+Sekolah Menengah Pertama,1 - 9 jam,2024,Agustus,826503
+Sekolah Menengah Pertama,10 - 14 jam,2024,Februari,866305
+Sekolah Menengah Pertama,10 - 14 jam,2024,Agustus,1043676
+Sekolah Menengah Pertama,15 - 24 jam,2024,Februari,1528973
+Sekolah Menengah Pertama,15 - 24 jam,2024,Agustus,1380999
+Sekolah Menengah Pertama,25 - 34 jam,2024,Februari,1795379
+Sekolah Menengah Pertama,25 - 34 jam,2024,Agustus,1752424
+Sekolah Menengah Pertama,35 - 44 jam,2024,Februari,2279640
+Sekolah Menengah Pertama,35 - 44 jam,2024,Agustus,2502742
+Sekolah Menengah Pertama,45 - 59 jam,2024,Februari,2415277
+Sekolah Menengah Pertama,45 - 59 jam,2024,Agustus,2608713
+Sekolah Menengah Pertama,60+ jam,2024,Februari,2449258
+Sekolah Menengah Pertama,60+ jam,2024,Agustus,2596046
+Sekolah Menengah Pertama,Jumlah,2024,Februari,2194956
+Sekolah Menengah Pertama,Jumlah,2024,Agustus,2379941
+Sekolah Menengah Atas (Umum),0 jam,2024,Februari,2613178
+Sekolah Menengah Atas (Umum),0 jam,2024,Agustus,3083698
+Sekolah Menengah Atas (Umum),1 - 9 jam,2024,Februari,1148974
+Sekolah Menengah Atas (Umum),1 - 9 jam,2024,Agustus,779735
+Sekolah Menengah Atas (Umum),10 - 14 jam,2024,Februari,1071687
+Sekolah Menengah Atas (Umum),10 - 14 jam,2024,Agustus,1206880
+Sekolah Menengah Atas (Umum),15 - 24 jam,2024,Februari,1581277
+Sekolah Menengah Atas (Umum),15 - 24 jam,2024,Agustus,1422144
+Sekolah Menengah Atas (Umum),25 - 34 jam,2024,Februari,2189946
+Sekolah Menengah Atas (Umum),25 - 34 jam,2024,Agustus,2026529
+Sekolah Menengah Atas (Umum),35 - 44 jam,2024,Februari,3112029
+Sekolah Menengah Atas (Umum),35 - 44 jam,2024,Agustus,3483821
+Sekolah Menengah Atas (Umum),45 - 59 jam,2024,Februari,3013681
+Sekolah Menengah Atas (Umum),45 - 59 jam,2024,Agustus,3235307
+Sekolah Menengah Atas (Umum),60+ jam,2024,Februari,3308254
+Sekolah Menengah Atas (Umum),60+ jam,2024,Agustus,3437811
+Sekolah Menengah Atas (Umum),Jumlah,2024,Februari,2842749
+Sekolah Menengah Atas (Umum),Jumlah,2024,Agustus,3092781
+Sekolah Menengah Atas (Kejuruan),0 jam,2024,Februari,3075614
+Sekolah Menengah Atas (Kejuruan),0 jam,2024,Agustus,3087913
+Sekolah Menengah Atas (Kejuruan),1 - 9 jam,2024,Februari,750037
+Sekolah Menengah Atas (Kejuruan),1 - 9 jam,2024,Agustus,992125
+Sekolah Menengah Atas (Kejuruan),10 - 14 jam,2024,Februari,1246038
+Sekolah Menengah Atas (Kejuruan),10 - 14 jam,2024,Agustus,1271397
+Sekolah Menengah Atas (Kejuruan),15 - 24 jam,2024,Februari,1477199
+Sekolah Menengah Atas (Kejuruan),15 - 24 jam,2024,Agustus,1488773
+Sekolah Menengah Atas (Kejuruan),25 - 34 jam,2024,Februari,2586657
+Sekolah Menengah Atas (Kejuruan),25 - 34 jam,2024,Agustus,2056551
+Sekolah Menengah Atas (Kejuruan),35 - 44 jam,2024,Februari,3188888
+Sekolah Menengah Atas (Kejuruan),35 - 44 jam,2024,Agustus,3410998
+Sekolah Menengah Atas (Kejuruan),45 - 59 jam,2024,Februari,2868790
+Sekolah Menengah Atas (Kejuruan),45 - 59 jam,2024,Agustus,3068719
+Sekolah Menengah Atas (Kejuruan),60+ jam,2024,Februari,3222938
+Sekolah Menengah Atas (Kejuruan),60+ jam,2024,Agustus,3350337
+Sekolah Menengah Atas (Kejuruan),Jumlah,2024,Februari,2891948
+Sekolah Menengah Atas (Kejuruan),Jumlah,2024,Agustus,3091621
+Diploma I/II/III/Akademi,0 jam,2024,Februari,3432145
+Diploma I/II/III/Akademi,0 jam,2024,Agustus,5590090
+Diploma I/II/III/Akademi,1 - 9 jam,2024,Februari,1390418
+Diploma I/II/III/Akademi,1 - 9 jam,2024,Agustus,1166454
+Diploma I/II/III/Akademi,10 - 14 jam,2024,Februari,1692619
+Diploma I/II/III/Akademi,10 - 14 jam,2024,Agustus,1549680
+Diploma I/II/III/Akademi,15 - 24 jam,2024,Februari,2160106
+Diploma I/II/III/Akademi,15 - 24 jam,2024,Agustus,2126352
+Diploma I/II/III/Akademi,25 - 34 jam,2024,Februari,2959066
+Diploma I/II/III/Akademi,25 - 34 jam,2024,Agustus,2597826
+Diploma I/II/III/Akademi,35 - 44 jam,2024,Februari,4563840
+Diploma I/II/III/Akademi,35 - 44 jam,2024,Agustus,4663524
+Diploma I/II/III/Akademi,45 - 59 jam,2024,Februari,3892738
+Diploma I/II/III/Akademi,45 - 59 jam,2024,Agustus,4202837
+Diploma I/II/III/Akademi,60+ jam,2024,Februari,3432621
+Diploma I/II/III/Akademi,60+ jam,2024,Agustus,5845154
+Diploma I/II/III/Akademi,Jumlah,2024,Februari,3868555
+Diploma I/II/III/Akademi,Jumlah,2024,Agustus,4254733
+Universitas,0 jam,2024,Februari,4071620
+Universitas,0 jam,2024,Agustus,5388250
+Universitas,1 - 9 jam,2024,Februari,2188165
+Universitas,1 - 9 jam,2024,Agustus,2545059
+Universitas,10 - 14 jam,2024,Februari,2149936
+Universitas,10 - 14 jam,2024,Agustus,1872894
+Universitas,15 - 24 jam,2024,Februari,2253330
+Universitas,15 - 24 jam,2024,Agustus,2384384
+Universitas,25 - 34 jam,2024,Februari,3918870
+Universitas,25 - 34 jam,2024,Agustus,3224188
+Universitas,35 - 44 jam,2024,Februari,5605992
+Universitas,35 - 44 jam,2024,Agustus,5712961
+Universitas,45 - 59 jam,2024,Februari,4524557
+Universitas,45 - 59 jam,2024,Agustus,5099704
+Universitas,60+ jam,2024,Februari,5310972
+Universitas,60+ jam,2024,Agustus,5681627
+Universitas,Jumlah,2024,Februari,4685241
+Universitas,Jumlah,2024,Agustus,4960719
+Rata-Rata,0 jam,2024,Februari,2355460
+Rata-Rata,0 jam,2024,Agustus,2779575
+Rata-Rata,1 - 9 jam,2024,Februari,1085551
+Rata-Rata,1 - 9 jam,2024,Agustus,1108415
+Rata-Rata,10 - 14 jam,2024,Februari,1247406
+Rata-Rata,10 - 14 jam,2024,Agustus,1268386
+Rata-Rata,15 - 24 jam,2024,Februari,1701627
+Rata-Rata,15 - 24 jam,2024,Agustus,1641801
+Rata-Rata,25 - 34 jam,2024,Februari,2769397
+Rata-Rata,25 - 34 jam,2024,Agustus,2331082
+Rata-Rata,35 - 44 jam,2024,Februari,3711559
+Rata-Rata,35 - 44 jam,2024,Agustus,4000526
+Rata-Rata,45 - 59 jam,2024,Februari,2935774
+Rata-Rata,45 - 59 jam,2024,Agustus,3201484
+Rata-Rata,60+ jam,2024,Februari,3053468
+Rata-Rata,60+ jam,2024,Agustus,3219373
+Rata-Rata,Jumlah,2024,Februari,3040719
+Rata-Rata,Jumlah,2024,Agustus,3267618
+Tidak/belum pernah sekolah,0 jam,2025,Agustus,2806926
+Tidak/belum pernah sekolah,1 - 9 jam,2025,Agustus,841214
+Tidak/belum pernah sekolah,10 - 14 jam,2025,Agustus,2628863
+Tidak/belum pernah sekolah,15 - 24 jam,2025,Agustus,1129031
+Tidak/belum pernah sekolah,25 - 34 jam,2025,Agustus,1328334
+Tidak/belum pernah sekolah,35 - 44 jam,2025,Agustus,2083737
+Tidak/belum pernah sekolah,45 - 59 jam,2025,Agustus,2837045
+Tidak/belum pernah sekolah,60+ jam,2025,Agustus,3195150
+Tidak/belum pernah sekolah,Jumlah,2025,Agustus,2083427
+Tidak/belum tamat SD,0 jam,2025,Februari,1238090
+Tidak/belum tamat SD,0 jam,2025,Agustus,1628149
+Tidak/belum tamat SD,1 - 9 jam,2025,Agustus,1211713
+Tidak/belum tamat SD,10 - 14 jam,2025,Februari,492511
+Tidak/belum tamat SD,10 - 14 jam,2025,Agustus,1484838
+Tidak/belum tamat SD,15 - 24 jam,2025,Februari,1028519
+Tidak/belum tamat SD,15 - 24 jam,2025,Agustus,1510125
+Tidak/belum tamat SD,25 - 34 jam,2025,Februari,1230935
+Tidak/belum tamat SD,25 - 34 jam,2025,Agustus,1644688
+Tidak/belum tamat SD,35 - 44 jam,2025,Februari,1179855
+Tidak/belum tamat SD,35 - 44 jam,2025,Agustus,2047061
+Tidak/belum tamat SD,45 - 59 jam,2025,Februari,2264434
+Tidak/belum tamat SD,45 - 59 jam,2025,Agustus,2365898
+Tidak/belum tamat SD,60+ jam,2025,Februari,2519420
+Tidak/belum tamat SD,60+ jam,2025,Agustus,2465891
+Tidak/belum tamat SD,Jumlah,2025,Februari,1600941
+Tidak/belum tamat SD,Jumlah,2025,Agustus,2013704
+Sekolah Dasar,0 jam,2025,Februari,2161875
+Sekolah Dasar,0 jam,2025,Agustus,1982446
+Sekolah Dasar,1 - 9 jam,2025,Februari,933382
+Sekolah Dasar,1 - 9 jam,2025,Agustus,1451275
+Sekolah Dasar,10 - 14 jam,2025,Februari,1104218
+Sekolah Dasar,10 - 14 jam,2025,Agustus,1395097
+Sekolah Dasar,15 - 24 jam,2025,Februari,1244249
+Sekolah Dasar,15 - 24 jam,2025,Agustus,1497624
+Sekolah Dasar,25 - 34 jam,2025,Februari,1338052
+Sekolah Dasar,25 - 34 jam,2025,Agustus,1707186
+Sekolah Dasar,35 - 44 jam,2025,Februari,1923179
+Sekolah Dasar,35 - 44 jam,2025,Agustus,2282101
+Sekolah Dasar,45 - 59 jam,2025,Februari,2500489
+Sekolah Dasar,45 - 59 jam,2025,Agustus,2552486
+Sekolah Dasar,60+ jam,2025,Februari,2046130
+Sekolah Dasar,60+ jam,2025,Agustus,2480377
+Sekolah Dasar,Jumlah,2025,Februari,1932276
+Sekolah Dasar,Jumlah,2025,Agustus,2242860
+Sekolah Menengah Pertama,0 jam,2025,Februari,2517195
+Sekolah Menengah Pertama,0 jam,2025,Agustus,2029973
+Sekolah Menengah Pertama,1 - 9 jam,2025,Februari,814754
+Sekolah Menengah Pertama,1 - 9 jam,2025,Agustus,1385803
+Sekolah Menengah Pertama,10 - 14 jam,2025,Februari,999698
+Sekolah Menengah Pertama,10 - 14 jam,2025,Agustus,1435348
+Sekolah Menengah Pertama,15 - 24 jam,2025,Februari,1299852
+Sekolah Menengah Pertama,15 - 24 jam,2025,Agustus,1545175
+Sekolah Menengah Pertama,25 - 34 jam,2025,Februari,1525721
+Sekolah Menengah Pertama,25 - 34 jam,2025,Agustus,1867858
+Sekolah Menengah Pertama,35 - 44 jam,2025,Februari,2196980
+Sekolah Menengah Pertama,35 - 44 jam,2025,Agustus,2605566
+Sekolah Menengah Pertama,45 - 59 jam,2025,Februari,2420177
+Sekolah Menengah Pertama,45 - 59 jam,2025,Agustus,2724770
+Sekolah Menengah Pertama,60+ jam,2025,Februari,2288648
+Sekolah Menengah Pertama,60+ jam,2025,Agustus,2655729
+Sekolah Menengah Pertama,Jumlah,2025,Februari,2122293
+Sekolah Menengah Pertama,Jumlah,2025,Agustus,2482817
+Sekolah Menengah Atas (Umum),0 jam,2025,Februari,2111445
+Sekolah Menengah Atas (Umum),0 jam,2025,Agustus,3141562
+Sekolah Menengah Atas (Umum),1 - 9 jam,2025,Februari,759094
+Sekolah Menengah Atas (Umum),1 - 9 jam,2025,Agustus,1879631
+Sekolah Menengah Atas (Umum),10 - 14 jam,2025,Februari,845930
+Sekolah Menengah Atas (Umum),10 - 14 jam,2025,Agustus,1504417
+Sekolah Menengah Atas (Umum),15 - 24 jam,2025,Februari,1555077
+Sekolah Menengah Atas (Umum),15 - 24 jam,2025,Agustus,1728414
+Sekolah Menengah Atas (Umum),25 - 34 jam,2025,Februari,1798542
+Sekolah Menengah Atas (Umum),25 - 34 jam,2025,Agustus,2233202
+Sekolah Menengah Atas (Umum),35 - 44 jam,2025,Februari,2469711
+Sekolah Menengah Atas (Umum),35 - 44 jam,2025,Agustus,3510546
+Sekolah Menengah Atas (Umum),45 - 59 jam,2025,Februari,2814675
+Sekolah Menengah Atas (Umum),45 - 59 jam,2025,Agustus,3246364
+Sekolah Menengah Atas (Umum),60+ jam,2025,Februari,2638683
+Sekolah Menengah Atas (Umum),60+ jam,2025,Agustus,3345457
+Sekolah Menengah Atas (Umum),Jumlah,2025,Februari,2481444
+Sekolah Menengah Atas (Umum),Jumlah,2025,Agustus,3149687
+Sekolah Menengah Atas (Kejuruan),0 jam,2025,Februari,3373867
+Sekolah Menengah Atas (Kejuruan),0 jam,2025,Agustus,3118360
+Sekolah Menengah Atas (Kejuruan),1 - 9 jam,2025,Februari,1507934
+Sekolah Menengah Atas (Kejuruan),1 - 9 jam,2025,Agustus,2170875
+Sekolah Menengah Atas (Kejuruan),10 - 14 jam,2025,Februari,1024046
+Sekolah Menengah Atas (Kejuruan),10 - 14 jam,2025,Agustus,1861696
+Sekolah Menengah Atas (Kejuruan),15 - 24 jam,2025,Februari,1306727
+Sekolah Menengah Atas (Kejuruan),15 - 24 jam,2025,Agustus,2002280
+Sekolah Menengah Atas (Kejuruan),25 - 34 jam,2025,Februari,2067905
+Sekolah Menengah Atas (Kejuruan),25 - 34 jam,2025,Agustus,2284435
+Sekolah Menengah Atas (Kejuruan),35 - 44 jam,2025,Februari,3260363
+Sekolah Menengah Atas (Kejuruan),35 - 44 jam,2025,Agustus,3535698
+Sekolah Menengah Atas (Kejuruan),45 - 59 jam,2025,Februari,3131204
+Sekolah Menengah Atas (Kejuruan),45 - 59 jam,2025,Agustus,3223823
+Sekolah Menengah Atas (Kejuruan),60+ jam,2025,Februari,3345595
+Sekolah Menengah Atas (Kejuruan),60+ jam,2025,Agustus,3376809
+Sekolah Menengah Atas (Kejuruan),Jumlah,2025,Februari,2982835
+Sekolah Menengah Atas (Kejuruan),Jumlah,2025,Agustus,3256604
+Diploma I/II/III/Akademi,0 jam,2025,Februari,2855077
+Diploma I/II/III/Akademi,0 jam,2025,Agustus,6570722
+Diploma I/II/III/Akademi,1 - 9 jam,2025,Februari,1066431
+Diploma I/II/III/Akademi,1 - 9 jam,2025,Agustus,2640669
+Diploma I/II/III/Akademi,10 - 14 jam,2025,Februari,1128538
+Diploma I/II/III/Akademi,10 - 14 jam,2025,Agustus,2004273
+Diploma I/II/III/Akademi,15 - 24 jam,2025,Februari,1406059
+Diploma I/II/III/Akademi,15 - 24 jam,2025,Agustus,2692393
+Diploma I/II/III/Akademi,25 - 34 jam,2025,Februari,2119519
+Diploma I/II/III/Akademi,25 - 34 jam,2025,Agustus,3394755
+Diploma I/II/III/Akademi,35 - 44 jam,2025,Februari,3186827
+Diploma I/II/III/Akademi,35 - 44 jam,2025,Agustus,4710940
+Diploma I/II/III/Akademi,45 - 59 jam,2025,Februari,2972146
+Diploma I/II/III/Akademi,45 - 59 jam,2025,Agustus,4444930
+Diploma I/II/III/Akademi,60+ jam,2025,Februari,3279834
+Diploma I/II/III/Akademi,60+ jam,2025,Agustus,6153612
+Diploma I/II/III/Akademi,Jumlah,2025,Februari,2965677
+Diploma I/II/III/Akademi,Jumlah,2025,Agustus,4500603
+Universitas,0 jam,2025,Februari,4379401
+Universitas,0 jam,2025,Agustus,4651584
+Universitas,1 - 9 jam,2025,Februari,1098245
+Universitas,1 - 9 jam,2025,Agustus,3441312
+Universitas,10 - 14 jam,2025,Februari,1388262
+Universitas,10 - 14 jam,2025,Agustus,2151559
+Universitas,15 - 24 jam,2025,Februari,1906854
+Universitas,15 - 24 jam,2025,Agustus,2710061
+Universitas,25 - 34 jam,2025,Februari,2206765
+Universitas,25 - 34 jam,2025,Agustus,3322465
+Universitas,35 - 44 jam,2025,Februari,4096886
+Universitas,35 - 44 jam,2025,Agustus,5340618
+Universitas,45 - 59 jam,2025,Februari,3958843
+Universitas,45 - 59 jam,2025,Agustus,4964483
+Universitas,60+ jam,2025,Februari,6285818
+Universitas,60+ jam,2025,Agustus,5960347
+Universitas,Jumlah,2025,Februari,3890826
+Universitas,Jumlah,2025,Agustus,4804860
+Rata-Rata,0 jam,2025,Februari,4234682
+Rata-Rata,0 jam,2025,Agustus,2873568
+Rata-Rata,1 - 9 jam,2025,Februari,2102477
+Rata-Rata,1 - 9 jam,2025,Agustus,2023368
+Rata-Rata,10 - 14 jam,2025,Februari,2293401
+Rata-Rata,10 - 14 jam,2025,Agustus,1640630
+Rata-Rata,15 - 24 jam,2025,Februari,2416310
+Rata-Rata,15 - 24 jam,2025,Agustus,1949358
+Rata-Rata,25 - 34 jam,2025,Februari,3119434
+Rata-Rata,25 - 34 jam,2025,Agustus,2482722
+Rata-Rata,35 - 44 jam,2025,Februari,5029222
+Rata-Rata,35 - 44 jam,2025,Agustus,3894224
+Rata-Rata,45 - 59 jam,2025,Februari,4168558
+Rata-Rata,45 - 59 jam,2025,Agustus,3299944
+Rata-Rata,60+ jam,2025,Februari,5246761
+Rata-Rata,60+ jam,2025,Agustus,3305262
+Rata-Rata,Jumlah,2025,Februari,4350202
+Rata-Rata,Jumlah,2025,Agustus,3331012
+Tidak/belum pernah sekolah,15 - 24 jam,2026,Februari,1390170
+Tidak/belum pernah sekolah,35 - 44 jam,2026,Februari,1879691
+Tidak/belum pernah sekolah,45 - 59 jam,2026,Februari,2730749
+Tidak/belum pernah sekolah,Jumlah,2026,Februari,2147133
+Tidak/belum tamat SD,0 jam,2026,Februari,2220347
+Tidak/belum tamat SD,10 - 14 jam,2026,Februari,884834
+Tidak/belum tamat SD,15 - 24 jam,2026,Februari,1476868
+Tidak/belum tamat SD,25 - 34 jam,2026,Februari,1729499
+Tidak/belum tamat SD,35 - 44 jam,2026,Februari,2028909
+Tidak/belum tamat SD,45 - 59 jam,2026,Februari,2431159
+Tidak/belum tamat SD,60+ jam,2026,Februari,2408051
+Tidak/belum tamat SD,Jumlah,2026,Februari,2115253
+Sekolah Dasar,0 jam,2026,Februari,1918633
+Sekolah Dasar,1 - 9 jam,2026,Februari,825872
+Sekolah Dasar,10 - 14 jam,2026,Februari,876316
+Sekolah Dasar,15 - 24 jam,2026,Februari,1651236
+Sekolah Dasar,25 - 34 jam,2026,Februari,1732772
+Sekolah Dasar,35 - 44 jam,2026,Februari,2208082
+Sekolah Dasar,45 - 59 jam,2026,Februari,2531816
+Sekolah Dasar,60+ jam,2026,Februari,2653801
+Sekolah Dasar,Jumlah,2026,Februari,2266427
+Sekolah Menengah Pertama,0 jam,2026,Februari,2370044
+Sekolah Menengah Pertama,1 - 9 jam,2026,Februari,661717
+Sekolah Menengah Pertama,10 - 14 jam,2026,Februari,960248
+Sekolah Menengah Pertama,15 - 24 jam,2026,Februari,1487357
+Sekolah Menengah Pertama,25 - 34 jam,2026,Februari,2061343
+Sekolah Menengah Pertama,35 - 44 jam,2026,Februari,2652609
+Sekolah Menengah Pertama,45 - 59 jam,2026,Februari,2662961
+Sekolah Menengah Pertama,60+ jam,2026,Februari,2940997
+Sekolah Menengah Pertama,Jumlah,2026,Februari,2553300
+Sekolah Menengah Atas (Umum),0 jam,2026,Februari,2244819
+Sekolah Menengah Atas (Umum),1 - 9 jam,2026,Februari,870725
+Sekolah Menengah Atas (Umum),10 - 14 jam,2026,Februari,1041905
+Sekolah Menengah Atas (Umum),15 - 24 jam,2026,Februari,1403782
+Sekolah Menengah Atas (Umum),25 - 34 jam,2026,Februari,2052800
+Sekolah Menengah Atas (Umum),35 - 44 jam,2026,Februari,3484404
+Sekolah Menengah Atas (Umum),45 - 59 jam,2026,Februari,3164482
+Sekolah Menengah Atas (Umum),60+ jam,2026,Februari,3447467
+Sekolah Menengah Atas (Umum),Jumlah,2026,Februari,3083537
+Sekolah Menengah Atas (Kejuruan),0 jam,2026,Februari,2681560
+Sekolah Menengah Atas (Kejuruan),1 - 9 jam,2026,Februari,941969
+Sekolah Menengah Atas (Kejuruan),10 - 14 jam,2026,Februari,1509398
+Sekolah Menengah Atas (Kejuruan),15 - 24 jam,2026,Februari,2052434
+Sekolah Menengah Atas (Kejuruan),25 - 34 jam,2026,Februari,2156656
+Sekolah Menengah Atas (Kejuruan),35 - 44 jam,2026,Februari,3491408
+Sekolah Menengah Atas (Kejuruan),45 - 59 jam,2026,Februari,3165547
+Sekolah Menengah Atas (Kejuruan),60+ jam,2026,Februari,3227076
+Sekolah Menengah Atas (Kejuruan),Jumlah,2026,Februari,3171784
+Diploma I/II/III/Akademi,0 jam,2026,Februari,2711937
+Diploma I/II/III/Akademi,1 - 9 jam,2026,Februari,1500818
+Diploma I/II/III/Akademi,15 - 24 jam,2026,Februari,1639214
+Diploma I/II/III/Akademi,25 - 34 jam,2026,Februari,4194271
+Diploma I/II/III/Akademi,35 - 44 jam,2026,Februari,4281687
+Diploma I/II/III/Akademi,45 - 59 jam,2026,Februari,3837251
+Diploma I/II/III/Akademi,60+ jam,2026,Februari,5764168
+Diploma I/II/III/Akademi,Jumlah,2026,Februari,4043267
+Universitas,0 jam,2026,Februari,5439444
+Universitas,1 - 9 jam,2026,Februari,1694491
+Universitas,15 - 24 jam,2026,Februari,2505573
+Universitas,25 - 34 jam,2026,Februari,3288450
+Universitas,35 - 44 jam,2026,Februari,5417572
+Universitas,45 - 59 jam,2026,Februari,4730536
+Universitas,60+ jam,2026,Februari,5582726
+Universitas,Jumlah,2026,Februari,4766335
+Rata-Rata,0 jam,2026,Februari,2877331
+Rata-Rata,1 - 9 jam,2026,Februari,1038497
+Rata-Rata,10 - 14 jam,2026,Februari,1466329
+Rata-Rata,15 - 24 jam,2026,Februari,1872824
+Rata-Rata,25 - 34 jam,2026,Februari,2493594
+Rata-Rata,35 - 44 jam,2026,Februari,3909828
+Rata-Rata,45 - 59 jam,2026,Februari,3172153
+Rata-Rata,60+ jam,2026,Februari,3318057
+Rata-Rata,Jumlah,2026,Februari,3287675
